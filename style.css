@@ -1,0 +1,19 @@
+.caixaaluno {
+
+}
+.titulo2 {
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+p {
+    font-family: 'Poppins', sans-serif;
+    border: 1px black solid;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: center;
+}
+.tudo {
+    display: flex;
+    justify-content: center;
+}
